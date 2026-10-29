@@ -1,8 +1,8 @@
 import "./globals.css"
 
 export const metadata = {
-  title: "知识库问答",
-  description: "把 Markdown 知识库做成可检索的问答页"
+  title: "羽毛球知识库",
+  description: "检索羽毛球资料，可临时使用自己的模型密钥"
 }
 
 export default function RootLayout({ children }) {
